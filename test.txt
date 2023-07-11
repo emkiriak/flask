@@ -3,3 +3,4 @@ Emmanouel Kiriakakis
 emkiriak@gmail.com
 
 New entry test
+ Edited from GitHub
