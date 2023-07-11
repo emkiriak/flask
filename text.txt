@@ -1,2 +1,4 @@
 This is the first entry in test1.txt
 Hello from text.txt
+New chanche
+Emmanouel
